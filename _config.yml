@@ -24,12 +24,12 @@ minimal: false              # use simpler style
 # Menu
 
 navigation:
-  - {file: "index.html", icon: home-heart}
+  - {file: "index.html", icon: home}
   - {file: "README.md", icon: address-card}
   - {file: "TO-DO.md", icon: th-list}
 
 external:                    # see http://fontawesome.com/icons
- - {title: Mail, icon: mailbox, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
+ - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
  - {title: Github, icon: github, url: "https://github.com/rish-singhal"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
