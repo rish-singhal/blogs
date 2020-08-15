@@ -19,6 +19,5 @@ for(LL i = 1; i <= K; i++){
 * [Link to Code](https://codeforces.com/contest/830/submission/28524841)
 
 
----
 
 

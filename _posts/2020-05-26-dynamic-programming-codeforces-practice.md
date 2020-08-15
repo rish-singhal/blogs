@@ -16,4 +16,3 @@ One interesting idea to note was, the answer can be calculated using longest pal
 * [Proof](https://stackoverflow.com/questions/54347339/longest-palindromic-subsequence-dp-solution)
 * [Link to Submission](https://codeforces.com/contest/1114/submission/83169697)
 
----

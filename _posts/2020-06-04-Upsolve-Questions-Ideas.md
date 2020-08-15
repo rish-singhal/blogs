@@ -89,5 +89,5 @@ void expo(int k){
 * [Link to Submission](https://www.codechef.com/viewsolution/34648600)					
 * [Link to Editorial](https://discuss.codechef.com/t/hxr-editorial/63715)
 
----
+
 

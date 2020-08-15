@@ -72,5 +72,4 @@ Instead of Digit DP, there was a new combinatorial approach (in editorial) which
 
 * [Link to DP solution](https://codeforces.com/contest/1036/submission/82726317)
 
----
 
