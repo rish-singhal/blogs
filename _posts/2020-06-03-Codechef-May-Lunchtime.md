@@ -2,6 +2,7 @@
 title: "Codechef May Lunchtime - 2020"
 mathjax: true
 layout: post
+comments: true
 ---
 
 [ABSNX - Absolute Min Max](https://www.codechef.com/LTIME84A/problems/ABSNX)                      

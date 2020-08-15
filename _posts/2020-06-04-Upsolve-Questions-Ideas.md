@@ -2,6 +2,7 @@
 title: "Upsolve Tracker - June '20"
 mathjax: true
 layout: post
+comments: true
 ---
 
 [1043F-Make It One](https://codeforces.com/contest/1043/problem/F)                      

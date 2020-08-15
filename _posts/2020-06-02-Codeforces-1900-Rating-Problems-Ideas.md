@@ -2,6 +2,7 @@
 title: "1900 Rated Codeforces Problems Ideas"
 mathjax: true
 layout: post
+comments: true
 ---
 
 [61E-Enemy is weak](https://codeforces.com/contest/61/problem/E)    
