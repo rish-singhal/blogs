@@ -31,6 +31,7 @@ navigation:
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
  - {title: Github, icon: github, url: "https://github.com/rish-singhal"}
+ - {title: Resume, icon: file, url: "_data/resume.pdf"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 # comments:
