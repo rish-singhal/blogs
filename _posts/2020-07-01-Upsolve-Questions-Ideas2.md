@@ -2,6 +2,7 @@
 title: "Upsolve Tracker - July '20"
 mathjax: true
 layout: post
+comments: true
 ---
 
 [830C-Bamboo Partition](https://codeforces.com/contest/830/problem/C)                      

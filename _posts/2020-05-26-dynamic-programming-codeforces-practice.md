@@ -2,6 +2,7 @@
 title: "Dynamic Programming Practice Codeforces"
 mathjax: true
 layout: post
+comments: true
 ---
 
 [466C-Number Of Ways](https://codeforces.com/problemset/problem/466/C)    

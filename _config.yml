@@ -7,6 +7,7 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
+
 markdown: kramdown
 sidebar: true             # show a sidebar instead of the usual header
 show_excerpts: true         # show article excerpts on the home page
@@ -28,12 +29,12 @@ navigation:
   - {file: "TO-DO.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
- - {title: Mail, icon: envelope, url: "mailto:rishabhsinghal.im@gmail.com"}
+ - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
  - {title: Github, icon: github, url: "https://github.com/rish-singhal"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 # comments:
-# #   disqus_shortname: "rishblogs"     # see https://disqus.com/
+  disqus_shortname: "rishblogs"     # see https://disqus.com/
 # #  isso_domain: ""           # see https://posativ.org/isso/
 
 plugins:
