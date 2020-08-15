@@ -25,6 +25,25 @@
 <!-- {% if site.comments.disqus_shortname and page.layout == "post" %}<script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>{% endif %}
 {% if site.comments.isso_domain and page.layout == "post" %}<script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>{% endif %} -->
 
+
+<header class="icons">
+  {% unless site.show_title != true and site.navigation and site.external %}
+    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  {% endunless %}
+  {% if site.navigation or site.external %}
+    {% include menu.html menu=site.navigation icons=false %}
+    {% include menu.html menu=site.external icons=true %}
+  {% else %}
+    {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
+    {% include menu.html menu=pages %}
+  {% endif %}
+  {% if site.sidebar and site.show_description %}
+    <div class="hidden description">{{ site.description }}</div>
+  {% endif %}
+</header>
+
+{{ content }}
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
@@ -49,22 +68,5 @@ s.setAttribute('data-timestamp', +new Date());
                             
 {% endif %}
 
-<header class="icons">
-  {% unless site.show_title != true and site.navigation and site.external %}
-    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% endunless %}
-  {% if site.navigation or site.external %}
-    {% include menu.html menu=site.navigation icons=false %}
-    {% include menu.html menu=site.external icons=true %}
-  {% else %}
-    {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
-    {% include menu.html menu=pages %}
-  {% endif %}
-  {% if site.sidebar and site.show_description %}
-    <div class="hidden description">{{ site.description }}</div>
-  {% endif %}
-</header>
-
-{{ content }}
 
 </html>
