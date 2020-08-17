@@ -1,6 +1,6 @@
 title: "RishBlogs"
 author: "Rishabh Singhal"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/rish-singhal\">@rish-singhal</a></b>"
+#description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/rish-singhal\">@rish-singhal</a></b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
