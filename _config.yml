@@ -1,6 +1,7 @@
 title: "RishBlogs"
 author: "Rishabh Singhal"
 #description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/rish-singhal\">@rish-singhal</a></b>"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,8 +26,8 @@ minimal: false              # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
   - {file: "TO-DO.md", icon: list}
+  - {file: "README.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
