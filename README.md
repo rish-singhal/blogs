@@ -28,5 +28,5 @@ My only want is to explore more and gain new life experiences while living in th
 
 ### CP Profile
 
-- [Codeforces: sillentKiller](https://codeforces.com/profile/sillentKiller)
-- [Codechef: topcoder31](https://www.codechef.com/users/topcoder31)
+- Codeforces: [sillentKiller](https://codeforces.com/profile/sillentKiller)
+- Codechef: [topcoder31](https://www.codechef.com/users/topcoder31)
