@@ -18,8 +18,9 @@ To prove the given axiom, we need to first go through two propositions,
 
 **Induction Step:** Consider $$n \in S$$, now as $$n = n$$ therefore $$n \subset n$$ hence $$n$$ can not be an element of $$n$$ i.e. $$n \notin n$$ as otherwise $$n \notin S$$. Considering, $$n^{+} = n \cup \{n\}$$, as $$n \notin n$$ therefore $$n^{+} \not\subset n$$ --- (1).
 
-Now let $$n^{+} \subset x$$ therefore $n \subset x$, which gives $$x \notin n$$, therefore $$n^{+}$$ is not a subset of any $$x \in n$$. Hence, $$n^{+}$$ is not a subset of any element of $$n^{+}$$ showing that $$n^{+} \in S$$.\\
-Now by mathematical induction, $S = \omega$ (the set of natural numbers).
+Now let $$n^{+} \subset x$$ therefore $$n \subset x$$, which gives $$x \notin n$$, therefore $$n^{+}$$ is not a subset of any $$x \in n$$. Hence, $$n^{+}$$ is not a subset of any element of $$n^{+}$$ showing that $$n^{+} \in S$$.
+
+Now by mathematical induction, $$S = \omega$$ (the set of natural numbers).
 
 
 **Reference:** Naive Set Theory, Paul Halmos
