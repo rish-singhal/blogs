@@ -26,8 +26,8 @@ minimal: false              # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "TO-DO.md", icon: list}
-  - {file: "README.md", icon: address-card}
+  - {file: "reasources.md", icon: list}
+  - {file: "about_me.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
