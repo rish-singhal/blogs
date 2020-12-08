@@ -1,6 +1,6 @@
 ---
-title: "Resources"
-permalink: "/resources/"
+title: "Read List"
+permalink: "/readlist/"
 layout: page
 ---
 
