@@ -26,7 +26,7 @@ minimal: false              # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "reasources.md", icon: list}
+  - {file: "resources.md", icon: list}
   - {file: "about_me.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
