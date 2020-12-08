@@ -4,8 +4,6 @@ permalink: "/resources/"
 layout: page
 ---
 
-## Resources
-
 1. Ravi Vakil's arguments for why you should *always attend* talks, regardless of whether a talk is aimed at you or not: [https://thousandmaths.tumblr.com/.../ravi-vakils-advice](https://thousandmaths.tumblr.com/.../ravi-vakils-advice)
 2. [https://www.youtube.com/watch?v=o0fG_lnVhHw](https://www.youtube.com/watch?v=o0fG_lnVhHw) [Rocket Launches]
 3. Checkout Song Writing 
@@ -39,7 +37,7 @@ layout: page
 27. [http://taotajima.jp/works/techne/](http://taotajima.jp/works/techne/) [Website — Next3JS and WebGL]
 28. [http://cor-rine.com/impress/counting-sheep/#/56](http://cor-rine.com/impress/counting-sheep/#/56) [Slides for Three-JS]
 29. [https://davidl.fr/about](https://davidl.fr/about) [ Another Cool Website]
-30. [https://github.com/splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) [ Notion + Web]
+30. [https://github.com/splitbee/notion-api-worker](https://github.com/splitbee/notion-api-worker) [Notion + Web]
 31. [https://regexone.com/lesson/line_beginning_end](https://regexone.com/lesson/line_beginning_end)? [For Regex]
 32. [https://www.youtube.com/watch?v=wT13Pz4iHUA](https://www.youtube.com/watch?v=wT13Pz4iHUA) [Piano Lessons]
 33. [https://kadavy.net](https://kadavy.net/) [Mind management, not time management]
