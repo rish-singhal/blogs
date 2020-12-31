@@ -46,7 +46,10 @@ layout: page
 36. [http://www.topology.org/](http://www.topology.org/) [Differential Geometry from beginning]
 37. [https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html](https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html) [B+Tree Implementation]
 38. [Quantum Computing](https://quantum.country/)
-
 39. Natural Numbers [http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
-
 40. [https://gather.town/](https://gather.town/)
+41. [http://lablit.com](http://lablit.com/)
+42. [https://deathnoteepisodes.com/death-note-episode-1-english-subbed-watch-online/](https://deathnoteepisodes.com/death-note-episode-1-english-subbed-watch-online/) [death note episodes]
+43. [http://vim.spf13.com](http://vim.spf13.com/)
+44. Dark Academia ? Check out?
+45. [https://www.youtube.com/channel/UCzBjutX2PmitNF4avysL-vg](https://www.youtube.com/channel/UCzBjutX2PmitNF4avysL-vg) [Aleph 0]
