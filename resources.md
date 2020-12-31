@@ -1,6 +1,7 @@
 ---
 title: "Read List"
 permalink: "/readlist/"
+mathjax: true
 layout: page
 ---
 
