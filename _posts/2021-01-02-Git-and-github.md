@@ -14,12 +14,12 @@ Resource: [https://www.youtube.com/watch?v=Pp08lcCOwd8](https://www.youtube.com/
 
 ---
 
-```cpp
+```
 Central											
-| * --> * --> * ---> * ---> (*) |(Final Node)	
-		|	   \             /					
-		* ---->	* --> * --> * (Distributed)		
-				Merge                            
+| * --> * --> * ---> * ---> (*) |(Final Node)
+		|	   \             /
+		* ---->	* --> * --> * (Distributed)
+	          Merge                            
 ```
 
 ---
@@ -46,13 +46,13 @@ Central
 
 - Add stuff → git add . (adds stuff to staging area)
 
-```cpp
+```
 <---- git [remove --cached]/reset <--														
 |                                   |														
-Files -> |------ Staging Area ------| 														
+Files -> |------ Staging Area ------|
 				  |															
-          :Commit:|																			
-				  : -> Ready to go to Local Repo.                                           
+          :Commit:|
+          		  : -> Ready to go to Local Repo.                                           
 ```
 
 ## Branching
