@@ -7,7 +7,7 @@ comments: true
 
 # Github & Git
 
-Resource: https://www.youtube.com/watch?v=Pp08lcCOwd8&feature=share
+Resource: [https://www.youtube.com/watch?v=Pp08lcCOwd8](https://www.youtube.com/watch?v=Pp08lcCOwd8)
 
 # Github — Distributed Version Control System
 
