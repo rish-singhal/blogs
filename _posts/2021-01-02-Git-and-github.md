@@ -16,9 +16,9 @@ Resource: [https://www.youtube.com/watch?v=Pp08lcCOwd8](https://www.youtube.com/
 ```
 Central											
 | * --> * --> * ---> * ---> (*) |(Final Node)
-		|	   \             /
-		* ---->	* --> * --> * (Distributed)
-	          Merge                            
+        |     \             /
+        * ---->	* --> * --> * (Distributed)
+	      Merge                            
 ```
 
 ---
@@ -49,9 +49,9 @@ Central
 <---- git [remove --cached]/reset <--														
 |                                   |														
 Files -> |------ Staging Area ------|
-				  |															
+		  |															
           :Commit:|
-          		  : -> Ready to go to Local Repo.                                           
+                  : -> Ready to go to Local Repo.                                           
 ```
 
 ## Branching
