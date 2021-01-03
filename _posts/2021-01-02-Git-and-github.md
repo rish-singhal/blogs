@@ -1,3 +1,4 @@
+
 ---
 title: "Git and Github"
 mathjax: true
@@ -13,12 +14,12 @@ Resource: [https://www.youtube.com/watch?v=Pp08lcCOwd8](https://www.youtube.com/
 
 ---
 
-```jsx
-Central																						
-| * --> * --> * ---> * ---> (*) |(Final Node)												
-				|			\             /													
-				*	---->	* --> * --> * (Distributed)										
-						Merge                                                               
+```cpp
+Central											
+| * --> * --> * ---> * ---> (*) |(Final Node)	
+		|	   \             /					
+		* ---->	* --> * --> * (Distributed)		
+				Merge                            
 ```
 
 ---
@@ -45,7 +46,7 @@ Central
 
 - Add stuff → git add . (adds stuff to staging area)
 
-```jsx
+```cpp
 <---- git [remove --cached]/reset <--														
 |                                   |														
 Files -> |------ Staging Area ------| 														
@@ -94,5 +95,3 @@ Files -> |------ Staging Area ------|
 ---
 
 - [ ] Checkout SSH workflow
-
----
