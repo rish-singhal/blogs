@@ -93,4 +93,4 @@ Files -> |------ Staging Area ------|
 
 ---
 
-- [ ] Checkout SSH workflow
+- [x] Checkout SSH workflow
