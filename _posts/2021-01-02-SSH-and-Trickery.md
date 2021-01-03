@@ -79,4 +79,4 @@ After generating keys, they can be uploaded to the server so as to get authorize
 
 ---
 
-- [SSH Crash Course | With Some DevOps]([https://www.youtube.com/watch?v=hQWRp-FdTpc](https://www.youtube.com/watch?v=hQWRp-FdTpc))
+- [SSH Crash Course ~With Some DevOps]([https://www.youtube.com/watch?v=hQWRp-FdTpc](https://www.youtube.com/watch?v=hQWRp-FdTpc))
