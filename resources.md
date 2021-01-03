@@ -16,7 +16,7 @@ layout: page
 9. [https://www.youtube.com/watch?v=7XzfWHdDS9Q](https://www.youtube.com/watch?v=7XzfWHdDS9Q) [Kahoot!?]
 10. [http://sachaepskamp.com/files/LaTeX2015/2015workshopL1.pdf](http://sachaepskamp.com/files/LaTeX2015/2015workshopL1.pdf) [LaTex for Psychology]
 11. Go with Emacs
-12. [https://en.wikibooks.org/wiki/LaTeX/](https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics) - $LaTex$ 
+12. [https://en.wikibooks.org/wiki/LaTeX/](https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics) - $\LaTex$ 
 13. [http://jeromyanglim.blogspot.com/2010/08/getting-started-with-beamer-tips-and.html](http://jeromyanglim.blogspot.com/2010/08/getting-started-with-beamer-tips-and.html) [Latex Tutorial]
 14. [https://www.slideshare.net/jbhuang/research-101-paper-writing-with-latex](https://www.slideshare.net/jbhuang/research-101-paper-writing-with-latex) **[Research Paper in Latex]**
 15. [https://www.classcentral.com/report/stanford-on-campus-courses/](https://www.classcentral.com/report/stanford-on-campus-courses/) [stanford courses]
