@@ -1,4 +1,3 @@
-
 ---
 title: "Git and Github"
 mathjax: true
