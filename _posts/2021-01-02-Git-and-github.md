@@ -7,7 +7,6 @@ comments: true
 
 # Github & Git
 
-Created: Jan 2, 2021 12:46 PM
 Resource: https://www.youtube.com/watch?v=Pp08lcCOwd8&feature=share
 
 # Github — Distributed Version Control System
@@ -15,11 +14,11 @@ Resource: https://www.youtube.com/watch?v=Pp08lcCOwd8&feature=share
 ---
 
 ```jsx
-Central
-| * --> * --> * ---> * ---> (*) |(Final Node)
-				|			\             /
-				*	---->	* --> * --> * (Distributed)
-						Merge
+Central																						
+| * --> * --> * ---> * ---> (*) |(Final Node)												
+				|			\             /													
+				*	---->	* --> * --> * (Distributed)										
+						Merge                                                               
 ```
 
 ---
@@ -47,12 +46,12 @@ Central
 - Add stuff → git add . (adds stuff to staging area)
 
 ```jsx
-<---- git [remove --cached]/reset <--
-|                                   |
-Files -> |------ Staging Area ------| 
-									|
-          :Commit:|
-									: -> Ready to go to Local Repo.
+<---- git [remove --cached]/reset <--														
+|                                   |														
+Files -> |------ Staging Area ------| 														
+				  |															
+          :Commit:|																			
+				  : -> Ready to go to Local Repo.                                           
 ```
 
 ## Branching
@@ -63,7 +62,7 @@ Files -> |------ Staging Area ------|
 - DEVELOP - Test and merge to MASTER
 - RANDOM BRANCH — For specific tasks
 
-    ![branching](../_data/images/git20210102/img1.png)
+    ![branching](../assets/images/git20210102/img1.png)
 
 ## Git Stash
 
@@ -74,7 +73,7 @@ Files -> |------ Staging Area ------|
 - git stash list
 - git stash pop
 
-    ![git stash commands](../_data/images/git20210102/img2.png)
+    ![git stash commands](../assets/images/git20210102/img2.png)
 
 ## Queries
 
@@ -94,6 +93,6 @@ Files -> |------ Staging Area ------|
 
 ---
 
-- [ ]  Checkout SSH workflow
+- [ ] Checkout SSH workflow
 
 ---
