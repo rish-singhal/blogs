@@ -15,7 +15,7 @@ $$\begin{aligned}
         \mathscr{L}\{f(t)\} &= \int_{0}^{\infty} e^{-st} (\int_{0}^{\infty}\frac{\sin{tx}}{x} dx) dt\\
         &= \int_{0}^{\infty}\frac{\int_{0}^{\infty} e^{-st} \sin{tx} dt}{x} dx = \int_{0}^{\infty}\frac{\mathscr{L}\{sin(xt)\}}{x} dx\\
         &= \int_{0}^{\infty}\frac{\frac{x}{x^2 + s^2}}{x} dx = \int_{0}^{\infty}\frac{1}{x^2 + s^2} dx\\
-        &= \frac{1}{s^2}\int_{0}^{\infty}\frac{1}{{(\frac{x}{s})}^2 + 1} dx
+        &= \frac{1}{s^2}\int_{0}^{\infty}\frac{1}{(\frac{x}{s})^2 + 1} dx
     \end{aligned}$$
 
 Let $$x = s \tan{\theta}$$, then $$dx = s \times {\sec{\theta}}^2 d{\theta}$$
