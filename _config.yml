@@ -25,15 +25,16 @@ minimal: true           # use simpler style
 # Menu
 
 navigation:
+  - {title: Home, icon: link, url: "https://rish-singhal.github.io"}
   - {file: "index.html", icon: home}
-  - {file: "resources.md", icon: list}
   - {file: "about_me.md", icon: address-card}
-  - {title: Portfolio, icon: link, url: "https://rish-singhal.github.io"}
+  - {file: "resources.md", icon: list}
+  - {title: Resume, icon: link, url: "https://github.com/rish-singhal/Resume/blob/main/resume_rishabh_singhal.pdf"}
 
 external:                    # see http://fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
  - {title: Github, icon: github, url: "https://github.com/rish-singhal"}
- - {title: Resume, icon: link, url: "https://github.com/rish-singhal/Resume/blob/main/resume_rishabh_singhal.pdf"}
+
  
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
