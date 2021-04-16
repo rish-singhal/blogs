@@ -42,6 +42,7 @@ Here, the data type is "int", assuming the value of $$expo = a^n$$ comes under t
 For achieving $$O(\log n)$$ complexity, the mathematical fact that any number (in decimal) can be represented uniquely in binary can be utilized.
 
 For example,
+
 $$12 = 1 \times 8 + 1 \times 4 + 0 \times 2 + 0 \times 1 = 1100_{2}$$
 $$15 = 1 \times 8 + 1 \times 4 + 1 \times 2 + 1 \times 1 = 1111_{2}$$
 
@@ -57,7 +58,7 @@ for (int i = 0; i < n; ++i) {
 // i.e. with ith step the value will be a^(2*i)
 ```
 
-Now, let's say we need to calculate $a^n$, then there will exist a unique representation of "$n$" in binary, whose $i_{th}$ bit can be checked if it is set or not by using a simple boolean expression involving bitwise operator
+Now, let's say we need to calculate $$a^n$$, then there will exist a unique representation of $$n$$ in binary, whose $$i_{th}$$ bit can be checked if it is set or not by using a simple boolean expression involving bitwise operator
 
 ```cpp
 // (n >> i) & 1 == ith bit of n
@@ -84,14 +85,14 @@ for (int i = 0; i < NUMBER_OF_BITS_IN_N; ++i) {
 // answer now have the value a^n
 ```
 
-See, there is only one "O(NUMBER_OF_BITS_IN_N)" for loop, and it is easy to see that the number of bits in $$n = \log_{2}(n)$$.
+See, there is only one $$O(\text{NUMBER_OF_BITS_IN_N})$$ for loop, and it is easy to see that the number of bits in $$n = \log_{2}(n)$$.
 
 Hence, the overall complexity = $$O(\log{n})$$
 
 If you are not sure of the number of bits in n, then just simply take MAXIMUM_POSSIBLE_NUMBER_OF_BITS instead which can be \~32 for the int datatype.
 
 ### Modular Binary Exponentiation
-Considering the second caveat described above, there can be cases where we need to find (a^n)%(some value) -- note that % is the remainder operator (as used in C++).
+Considering the second caveat described above, there can be cases where we need to find $$a^n % (some value)$$ -- note that % is the remainder operator (as used in C++).
 
 For this, just an easy modification of the code will work,
 ```cpp
