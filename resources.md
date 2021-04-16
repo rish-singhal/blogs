@@ -54,3 +54,22 @@ layout: page
 43. [http://vim.spf13.com](http://vim.spf13.com/)
 44. Dark Academia ? Check out?
 45. [https://www.youtube.com/channel/UCzBjutX2PmitNF4avysL-vg](https://www.youtube.com/channel/UCzBjutX2PmitNF4avysL-vg) [Aleph 0]
+46.  [https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg) [Explains economics]
+47.  [https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) Quality animation on diverse topics. [Kurzgesagt]
+48. [https://www.mathcha.io/editor](https://www.mathcha.io/editor) [For creating latex visually]
+49. [https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) [Yabai — WM for MacOS]
+- [https://www.notion.so/Yabai-8da3b829872d432fac43181b7ff628fc](https://www.notion.so/Yabai-8da3b829872d432fac43181b7ff628fc)
+50. [https://terminalsare.sexy/#tools-and-plugins](https://terminalsare.sexy/#tools-and-plugins) 
+51. [https://todoist.com/templates/](https://todoist.com/templates/)
+52. [https://www.youtube.com/watch?v=38LMlhYiQzc](https://www.youtube.com/watch?v=38LMlhYiQzc) **Music for concentration ~which resonates with me**
+53. [https://github.com/nemani/hackmd-journal](https://github.com/nemani/hackmd-journal)
+54. [https://github.com/jglovier/resume-template](https://github.com/jglovier/resume-template)
+55. [https://www.reddit.com/r/i3wm/comments/9wqt4k/connect_to_bluetooth_devices_on_i3/](https://www.reddit.com/r/i3wm/comments/9wqt4k/connect_to_bluetooth_devices_on_i3/)
+56. [https://github.com/v1nam/i3gaps-dotfiles](https://github.com/v1nam/i3gaps-dotfiles)
+57. Massif Visualiser 
+58. [https://github.com/jglovier/resume-template/projects/1](https://github.com/jglovier/resume-template/projects/1)
+59. [https://www.jordanbpeterson.com/classes/psychology-434/](https://www.jordanbpeterson.com/classes/psychology-434/) [jordan peterson]
+60. [https://nptel.ac.in/courses/109/106/109106116/](https://nptel.ac.in/courses/109/106/109106116/)
+61. [https://notes.binnyva.com](https://notes.binnyva.com/)
+62. [https://gorails.com](https://gorails.com/)
+63. [https://medium.com/coffee-in-a-klein-bottle](https://medium.com/coffee-in-a-klein-bottle)
