@@ -30,10 +30,10 @@ navigation:
   - {file: "about_me.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
+ - {title: Homepage, icon: home, url: "https://rish-singhal.github.io"}
  - {title: Mail, icon: envelope, url: "mailto:rishabh.singhal@research.iiit.ac.in"}
  - {title: Github, icon: github, url: "https://github.com/rish-singhal"}
  - {title: Resume, icon: link, url: "https://github.com/rish-singhal/Resume/blob/main/resume_rishabh_singhal.pdf"}
- - {title: rish-singhal, icon: link, url: "https://rish-singhal.github.io"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 # comments:
