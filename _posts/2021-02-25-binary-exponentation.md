@@ -46,7 +46,7 @@ For example,
 $$12 = 1 \times 8 + 1 \times 4 + 0 \times 2 + 0 \times 1 = 1100_{2}$$
 $$15 = 1 \times 8 + 1 \times 4 + 1 \times 2 + 1 \times 1 = 1111_{2}$$
 
-Now, also using the fact that $a^{m + n} = a^m \times a^n, we can calculate the values of $a^1, a^2, a^4,$ and so on ...
+Now, also using the fact that $$a^{m + n} = a^m \times a^n$$, we can calculate the values of $$a^1, a^2, a^4,$$ and so on ...
 
 ```cpp
 int expo = a;
