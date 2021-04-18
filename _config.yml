@@ -10,16 +10,11 @@ date_format: "%B %d, %Y"
 # Layout
 
 markdown: kramdown
-
-# Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
 
 sidebar: false            # show a sidebar instead of the usual header
 show_excerpts: false         # show article excerpts on the home page
