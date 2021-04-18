@@ -5,12 +5,12 @@ layout: default
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  {% if page.comments %}
+<!--   {% if page.comments %}
     <hr>
     {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
     {% if page.comments %}<div id="disqus_thread"></div>{% endif %}
     <noscript>Please enable JavaScript to view comments.</noscript>
-  {% endif %}
+  {% endif %} -->
 </article>
 
 {% if site.show_related %}
