@@ -2,7 +2,7 @@
 title: "SSH and Trickery"
 mathjax: true
 layout: post
-comments: true
+comments: false
 ---
 
 ## Introduction

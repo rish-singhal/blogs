@@ -2,7 +2,7 @@
 title: "Git and Github"
 mathjax: true
 layout: post
-comments: true
+comments: false
 ---
 
 # Github & Git

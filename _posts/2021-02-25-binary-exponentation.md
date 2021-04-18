@@ -2,7 +2,7 @@
 title: "Binary Exponentiation"
 mathjax: true
 layout: post
-comments: true
+comments: false
 ---
 
 Let's say you are given two numbers $$a$$, $$n$$ and you have to compute $$a^n$$.

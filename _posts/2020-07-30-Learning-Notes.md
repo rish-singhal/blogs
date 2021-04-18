@@ -2,7 +2,7 @@
 title: "Learning Notes"
 mathjax: true
 layout: post
-comments: true
+comments: false
 ---
 
 ### Maximum Independent Set in Bipartite Graphs

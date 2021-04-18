@@ -2,7 +2,7 @@
 title: "Piano's Axiom"
 mathjax: true
 layout: post
-comments: true
+comments: false
 ---
 
 ### Piano's Fifth Axiom
