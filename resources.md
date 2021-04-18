@@ -5,7 +5,7 @@ mathjax: true
 layout: page
 ---
 
-1. Ravi Vakil's arguments for why you should *always attend* talks, regardless of whether a talk is aimed at you or not: [https://thousandmaths.tumblr.com/.../ravi-vakils-advice](https://thousandmaths.tumblr.com/.../ravi-vakils-advice)
+1. [Observable](https://observablehq.com) ~maths visualization
 2. [https://www.youtube.com/watch?v=o0fG_lnVhHw](https://www.youtube.com/watch?v=o0fG_lnVhHw) [Rocket Launches]
 3. Checkout Song Writing 
 4. [https://www.youtube.com/watch?v=5sSSA2gHMCk](https://www.youtube.com/watch?v=5sSSA2gHMCk) [Bollu - Haskell]
@@ -73,4 +73,4 @@ layout: page
 61. [https://notes.binnyva.com](https://notes.binnyva.com/)
 62. [https://gorails.com](https://gorails.com/)
 63. [https://medium.com/coffee-in-a-klein-bottle](https://medium.com/coffee-in-a-klein-bottle)
-64. [Observable](https://observablehq.com) ~maths visualization
+
