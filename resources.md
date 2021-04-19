@@ -5,6 +5,15 @@ mathjax: true
 layout: page
 ---
 
+## Courses
+
+1. [MIT - Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)
+2. [Electrodynamics](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/syllabus/)
+
+
+
+## Miscellaneous
+
 1. [Observable](https://observablehq.com) ~maths visualization
 2. [https://www.youtube.com/watch?v=o0fG_lnVhHw](https://www.youtube.com/watch?v=o0fG_lnVhHw) [Rocket Launches]
 3. Checkout Song Writing 
