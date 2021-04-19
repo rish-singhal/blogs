@@ -11,7 +11,6 @@ layout: page
 2. [Electrodynamics](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/syllabus/)
 
 
-
 ## Miscellaneous
 
 1. [Observable](https://observablehq.com) ~maths visualization
