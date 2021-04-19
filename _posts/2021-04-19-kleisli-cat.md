@@ -15,7 +15,7 @@ and pointing to another (this can be same object too). Such that,
    C$$ there exists a morphism $$m: A \mapsto C$$ which is called composition of
    $$m_1$$ and $$m_2$$.
 
--------------
+---
 
 ## Kleisli Category
 
@@ -44,7 +44,8 @@ pair <a, string> id(a x) {
     return make_pair(x, "");
     }
 ```
------------------
+
+---
 
 Viewing this from categoric point of view, it can be seen that these functions
 are nothing but morphisms with the two objects (which can be same too) as the
