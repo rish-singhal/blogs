@@ -51,10 +51,10 @@ Viewing this from categoric point of view, it can be seen that these functions
 are nothing but morphisms with the two objects (which can be same too) as the
 type of input and output.
 
-```cpp
-  (a) ---- f -----> (b) ---- g ----> (c)
-  \                                  /
-   \------------- f o g ----------->/
+```
+  (a) ---- f -----> (b) ---- g ---->  (c)
+   \                                  /
+    \------------- f o g ----------->/
 ```
 With each object having it's own identiy morphism.
 
