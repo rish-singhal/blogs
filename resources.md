@@ -8,7 +8,7 @@ layout: page
 ## Courses
 
 1. [MIT - Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/index.htm)
-2. [Electrodynamics](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/syllabus/)
+2. [MIT - Electrodynamics](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/syllabus/)
 
 
 ## Miscellaneous
