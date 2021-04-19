@@ -1,5 +1,5 @@
 ---
-title: "Kőnig’s line coloring theorem"
+title: "Kőnig’s Line coloring theorem"
 mathjax: true
 layout: post
 comments: false

@@ -61,3 +61,9 @@ With each object having it's own identiy morphism.
 So, it is a category with types as objects and functions (special - log) as
 morphisms. This category is known as **Kleisli Category**.
 
+---
+
+## Reference 
+
+- [Category Theory 3.2 - Bartosz Milewski](https://www.youtube.com/watch?v=i9CU4CuHADQ&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=6)
+
