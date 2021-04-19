@@ -1,5 +1,5 @@
 ---
-title: "Piano's Axiom"
+title: "Set Theoretic View of Piano's Fifth Axiom"
 mathjax: true
 layout: post
 comments: false
