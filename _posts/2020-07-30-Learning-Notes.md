@@ -1,5 +1,5 @@
 ---
-title: "Learning Notes"
+title: "Kőnig’s line coloring theorem"
 mathjax: true
 layout: post
 comments: false

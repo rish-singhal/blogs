@@ -1,5 +1,5 @@
 ---
-title: "Upsolve Tracker - June '20"
+title: "Barricade DP: Array to Binary Tree"
 mathjax: true
 layout: post
 comments: false

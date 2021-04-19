@@ -1,5 +1,5 @@
 ---
-title: "1900 Rated Codeforces Problems Ideas"
+title: "Policy Based Data Structures and more"
 mathjax: true
 layout: post
 comments: false

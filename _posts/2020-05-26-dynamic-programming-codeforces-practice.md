@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Programming Practice Codeforces"
+title: "Dynamic Programming: longest palindromic subsequence"
 mathjax: true
 layout: post
 comments: false

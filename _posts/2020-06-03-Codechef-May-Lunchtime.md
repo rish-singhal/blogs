@@ -1,5 +1,5 @@
 ---
-title: "Codechef May Lunchtime - 2020"
+title: "Lunchtime with Fenwick Tree"
 mathjax: true
 layout: post
 comments: false
