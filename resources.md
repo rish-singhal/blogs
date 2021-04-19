@@ -73,4 +73,5 @@ layout: page
 61. [https://notes.binnyva.com](https://notes.binnyva.com/)
 62. [https://gorails.com](https://gorails.com/)
 63. [https://medium.com/coffee-in-a-klein-bottle](https://medium.com/coffee-in-a-klein-bottle)
+64. [Floss Weekly Podcast](https://twit.tv/shows/floss-weekly)
 
