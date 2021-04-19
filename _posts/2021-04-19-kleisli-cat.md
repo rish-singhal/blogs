@@ -13,7 +13,7 @@ and pointing to another (this can be same object too). Such that,
 1. There exists an indentity morphism for all objects.
 2. For every two morphisms of the type $$m_1: A \mapsto B$$ and $$m_2: B \mapsto
    C$$ there exists a morphism $$m: A \mapsto C$$ which is called composition of
-   $$m_1$$ and $$m_2$$.
+   $$m_1$$ and $$m_2$$. And this composition is **associative.**
 
 ---
 
