@@ -61,6 +61,13 @@ With each object having it's own identiy morphism.
 So, it is a category with types as objects and functions (special - log) as
 morphisms. This category is known as **Kleisli Category**.
 
+There is a kind of embellisment "string" (which can be any other monoid), as the
+function is from $$a \mapsto (b, string)$$ rather than directly i.e. $$a \mapsto
+b$$.
+
+These functions are called kleisli functions, and these functions are composoble
+becasue the embellisment is a **monad**.
+
 ---
 
 ## Reference 
