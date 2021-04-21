@@ -42,3 +42,7 @@ mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 // to generate a number in the range [l, r]
 int random_number = uniform_int_distribution<int>(l,r)(rng)
 ```
+
+## Solution Link
+
+- [Submission Link](https://codeforces.com/contest/1514/submission/113695906)
