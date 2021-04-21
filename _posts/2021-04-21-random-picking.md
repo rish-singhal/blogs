@@ -20,7 +20,7 @@ This problem requires to find out the existence of the **super-most frequent**
 element in a given range $$[l, r]$$ of an array. 
 
 **Definition:** Super-most frequent element in a range $$[l,r]$$ is the element
-with frequency greater than $$\lceil \frac{l + r}{2} \rceil$$.
+with frequency greater than $$\lceil \frac{r-l+1}{2} \rceil$$.
 
 To find such an array element (let's say it exists), it can be seen that the
 probability of any array element between $$[l, r]$$ to be super-most freuqent
