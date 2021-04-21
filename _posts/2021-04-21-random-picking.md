@@ -6,15 +6,15 @@ comments: false
 ---
 
 This post is regarding a recent problem from [Codeforces Round 716 Div2](https:
-//codeforces.com/contest/1514) which can be solved using a randomized approach.
+//codeforces.com/contest/1514) which can be solved using a randomized approach. 
 
-Honestly, this is the first problem I solved using randomization approach, so
+This is the first problem I solved using randomization approach, so
 it's special.
 
 ----
 ## Problem
 
-Problem Link: [Cut and Stick](https://codeforces.com/contest/1514/problem/D)
+- Problem: [Cut and Stick](https://codeforces.com/contest/1514/problem/D)
 
 This problem requires to find out the existence of the **super-most frequent**
 element in a given range $$[l, r]$$ of an array. 
@@ -28,12 +28,12 @@ probability of any array element between $$[l, r]$$ to be super-most freuqent
 $$1/2$$ as the number of SMF is greater than half of the total.
 
 Therefore, we can utilize a random algorithmic approach, where we will choose an
-element randomly from the range $$[l,r]$$ $$~40$$ times and check it's frequency
+element randomly from the range $$[l,r]$$ \~$$40$$ times and check it's frequency
 in $$O(\log n)$$ using binary search over the indices it occur. $$40$$ times
-because then the probability of all of the selected random element not to beSMF
+because then the probability of all of the selected random element not to be SMF
 will be $$2^{-40}$$ which is really less.
 
-Now,to generate the random number in c++ following code can be used:
+To generate the random number in c++ following code can be used:
 
 ```cpp
 // initializing random_number_generator - rng
