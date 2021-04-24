@@ -84,4 +84,6 @@ layout: page
 64. [Floss Weekly Podcast](https://twit.tv/shows/floss-weekly)
 65. [Probability Gems - IITK](https:
     //www.cse.iitk.ac.in/users/sbaswana/probability-gems.html)
+66. [Abelian Groups](https:
+    //www.sciencedirect.com/book/9780080092065/abelian-groups)
 
