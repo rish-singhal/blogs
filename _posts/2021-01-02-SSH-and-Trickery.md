@@ -43,6 +43,23 @@ The server must have SSHD *server*  (Open SSH Daemon) — for listening to the r
 
 After generating keys, they can be uploaded to the server so as to get authorized access without traditional username-password pair.
 
+## Note For GitHub SSH
+
+---
+
+Update the .ssh/config file by adding the following code for connecting to github after configuring SSH keys
+
+```bash
+Host github.com
+ Hostname ssh.github.com
+ Port 443
+```
+To check if the steps were successful, try the following code
+
+```bash
+$ ssh -T git@github.com
+```
+
 ## Extras
 
 ---
