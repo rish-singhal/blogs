@@ -31,7 +31,7 @@ Following are some of quotes by Marcus Aurelius that I like:
 
 ----
 
-## Future Ides
+## Future Ideas
 
 Developing a web app for curating quotes which I come accross.
 
