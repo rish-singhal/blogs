@@ -86,4 +86,4 @@ layout: page
     //www.cse.iitk.ac.in/users/sbaswana/probability-gems.html)
 66. [Abelian Groups](https:
     //www.sciencedirect.com/book/9780080092065/abelian-groups)
-
+67. [Quant Magazine](https://www.quantamagazine.org/)
