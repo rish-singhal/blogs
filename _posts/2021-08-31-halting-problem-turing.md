@@ -1,5 +1,6 @@
 ---
 title: "Halting Problem ~ Turing"
+mathjax: true
 layout: post
 comments: false
 ---
