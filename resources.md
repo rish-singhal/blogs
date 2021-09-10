@@ -13,6 +13,7 @@ layout: page
 
 ## Miscellaneous
 
+69. [Python One Liners](https://wiki.python.org/moin/Powerful%20Python%20One-Liners)
 68. [CPP Design Patterns](https://cpppatterns.com)
 67. [Observable](https://observablehq.com) ~maths visualization
 66. [https://www.youtube.com/watch?v=o0fG_lnVhHw](https://www.youtube.com/watch?v=o0fG_lnVhHw) [Rocket Launches]
