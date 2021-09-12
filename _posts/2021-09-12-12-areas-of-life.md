@@ -11,7 +11,7 @@ layout: post
 6. **YOUR INTELLECTUAL LIFE.** How much and how fast are you growing and learning? How many books do you read? How many seminars or courses do you take yearly? Education should not stop after you graduate from college.
 7. **YOUR SKILLS.** How fast are you improving the skills you have that make you unique and help you build a successful career? Are you growing toward mastery or are you stagnating?
 8. **YOUR SPIRITUAL LIFE.** How much time do you devote to spiritual, meditative, or contemplative practices that keep you feeling connected, balanced, and peaceful?
-9. **YOUR CAREER. Are you growing, climbing the ladder, and excelling? Or do you feel you’re stuck in a rut? If you have a business, is it thriving or stagnating?
+9. **YOUR CAREER.** Are you growing, climbing the ladder, and excelling? Or do you feel you’re stuck in a rut? If you have a business, is it thriving or stagnating?
 10. **YOUR CREATIVE LIFE.** Do you paint, write, play musical instruments, or engage in any other activity that helps you channel your creativity? Or are you more of a consumer than a creator?
 11. **YOUR FAMILY LIFE.** Do you love coming home to your family after a hard day’s work? If you’re not married or a parent, define your family as your parents and siblings.
 12. **YOUR COMMUNITY LIFE.** Are you giving, contributing, and playing a definite role in your community?
