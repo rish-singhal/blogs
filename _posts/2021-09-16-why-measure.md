@@ -9,11 +9,11 @@ comments: false
 
 Let's say we set a goal.
 
-It just acts like a location pointer in the cognitive map which is temporal as well as spatial in nature?
+It just acts like a location pointer in the cognitive? map which is temporal as well as spatial? in nature.
 
 Now you basically need one thing i.e. some **measurable quantity which have the following properties.**
 
-- **Property 1:** There exist a comparable function i.e. the set of all the possible measurable quantity is a **[totally ordered set](https://en.wikipedia.org/wiki/Total_order)** $$S$$.
+- **Property 1:** There exist a comparable function and the set of all the possible measurable quantity is a **[totally ordered set](https://en.wikipedia.org/wiki/Total_order)** $$S$$.
 - **Property 2:** If $$a, b \in S$$, then let's say $$a \leq b$$ then we say that $$b$$ is an indicator that you are in the right direction.
 - **Property 3:** There exists an element $$g$$ (goal) in the set $$S$$ which have the property that
 
