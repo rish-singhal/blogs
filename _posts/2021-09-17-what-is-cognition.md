@@ -48,6 +48,6 @@ Does cognition includes all the depth of memory i.e. is hippocampus for example 
 
 Knowledge might be basically extracting out useful information from the sensory data and probably later on store in the memory to be used later on actively in life.
 
-## Desclaimer
+## Disclaimer
 
 The above notes are my viewpoints and my understanding of what cognition is.
