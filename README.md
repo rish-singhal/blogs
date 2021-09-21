@@ -1,4 +1,3 @@
 # rishblogs
-
-content + code of my website (developed in jekyll)
+Content + code of my website (developed in jekyll)
 
