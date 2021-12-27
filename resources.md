@@ -89,3 +89,4 @@ layout: page
 2. [Abelian Groups](https:
     //www.sciencedirect.com/book/9780080092065/abelian-groups)
 1. [Quant Magazine](https://www.quantamagazine.org/)
+{: reversed="reversed"}
