@@ -13,6 +13,7 @@ layout: page
 
 ## Miscellaneous
 
+70. [Vim Plugins](https://vimawesome.com/)
 69. [Python One Liners](https://wiki.python.org/moin/Powerful%20Python%20One-Liners)
 68. [CPP Design Patterns](https://cpppatterns.com)
 67. [Observable](https://observablehq.com) ~maths visualization
