@@ -13,6 +13,7 @@ layout: page
 
 ## Miscellaneous
 
+71. [Vim Blogs](https://vimways.org/)
 70. [Vim Plugins](https://vimawesome.com/)
 69. [Python One Liners](https://wiki.python.org/moin/Powerful%20Python%20One-Liners)
 68. [CPP Design Patterns](https://cpppatterns.com)
