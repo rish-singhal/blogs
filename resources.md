@@ -12,6 +12,7 @@ layout: page
 
 ## Miscellaneous
 
+74. [Joe Rogan & Naval Ravikant: Podcast](https://www.youtube.com/watch?v=3qHkcs3kG44)
 73. [Three.js](https://threejs.org)
 72. [JavaScript Blogs](https://mrale.ph/)
 71. [Vim Blogs](https://vimways.org/)
